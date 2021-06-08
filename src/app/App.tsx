@@ -9,7 +9,7 @@ function App(): JSX.Element {
           <p>Help</p>
         </Route>
         <Route exact path="/">
-          <p>Home</p>
+          <p>Nein</p>
         </Route>
       </Switch>
     </BrowserRouter>
